@@ -1,4 +1,4 @@
-# projet_etl_dw_pentaho_olap : Installation, Prise en Main et Application OLTP → OLAP
+# Projet_etl_dw_pentaho_olap : Installation, Prise en Main et Application OLTP → OLAP
 
 ## Objectifs du projet
 - Installer et configurer Pentaho PDI (Spoon)
